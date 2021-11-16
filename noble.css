@@ -1,0 +1,44 @@
+.para{
+    padding-top: 10px;
+}
+.para2{
+    padding-top: 10px;
+    font-size: 20px;
+    color:black;
+}
+.para1{
+    font-size: 20px;
+    color:black;
+}
+p:hover{
+    background-color: black;
+    color:yellow;
+} 
+.para1::first-letter{
+    color:chartreuse;
+    font-size:40px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color:tomato;
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url("https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/8a6f3e4f-d9ef-4c4a-afb7-5a5f62cf61f4/short-and-spectacular-header.jpg");
+}
+button{
+    text-align: center;
+    
+    color:rgb(136, 136, 101);
+    background-color:white;
+}
+a:hover{
+    color:yellow;
+}
+.para3{
+    padding-top: 10px;
+    font-size: 20px;
+    color:black;
+}
